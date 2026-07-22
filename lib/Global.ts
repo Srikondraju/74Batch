@@ -13,7 +13,7 @@ export class global{
     public employeelastname     :string="king";
     public searchBy             :string="Emp. ID"
     public searchfor            :string="10016";
-    public chooseFile           :string="‪C:\Users\Sai Sriram\Desktop\Playwright With AI Course\PlayWrightWorkSpace\74Batch_Hybrid\Desert.jpg"
+    public chooseFile           :string="C:\Users\Sai Sriram\Desktop\Playwright With AI Course\PlayWrightWorkSpace\74Batch_Hybrid\Desert.jpg"
 
     //******** Objects / Elements ************ */
 
