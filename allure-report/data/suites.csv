@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","8553","TC002-Add Employee Details","chromium","2026-07-18","passed","2026-07-18","","TC002.spec.ts","",""

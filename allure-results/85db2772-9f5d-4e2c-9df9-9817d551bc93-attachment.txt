@@ -1,0 +1,4 @@
+Application opened
+login completed
+Employee Details added successfully
+Logout completed
