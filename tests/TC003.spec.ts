@@ -1,4 +1,4 @@
-/*
+
 import{test} from '@playwright/test';
 import { general } from '../lib/General';
 
@@ -15,4 +15,4 @@ test('TC003-Delete Employee Details',async({page})=>{
     await obj.logout();
 
 });
-*/
+
