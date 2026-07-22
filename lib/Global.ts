@@ -12,8 +12,8 @@ export class global{
     public employeefirstname    :string="Veera";
     public employeelastname     :string="king";
     public searchBy             :string="Emp. ID"
-    public searchfor            :string="10040";
-    public chooseFile           :string="C:/Users/Sai Sriram/Desktop/Playwright With AI Course/HRMS/Desert.jpg"
+    public searchfor            :string="10016";
+    public chooseFile           :string="‪C:\Users\Sai Sriram\Desktop\Playwright With AI Course\PlayWrightWorkSpace\74Batch_Hybrid\Desert.jpg"
 
     //******** Objects / Elements ************ */
 
